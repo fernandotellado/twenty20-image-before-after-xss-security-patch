@@ -52,4 +52,4 @@ Once the official plugin includes a security fix, deactivate and delete this pat
 
 **Author:** Fernando Tellado  
 **Website:** [https://servicios.ayudawp.com](https://servicios.ayudawp.com)  
-**License:** GPL-2.0-or-later
+**License:** GPL-3.0-or-later
